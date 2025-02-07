@@ -6,7 +6,7 @@ Assignment link: https://zelthy.com/assignments/frontend-intern
 
 Submission form: https://forms.gle/o8tUdshRWS33tg8X6
 
-##### How to use this template?
+### How to use this template?
 
 1. If you are reading this on GitHub, click the "use this template" dropdown in the top right corner of the page and select "Create a new repository".
 <img width="1470" alt="Screenshot 2025-02-07 at 6 10 26 PM" src="https://github.com/user-attachments/assets/360f44ae-57e8-4c47-b768-cbfd95b3aa0a" />
@@ -16,7 +16,7 @@ Submission form: https://forms.gle/o8tUdshRWS33tg8X6
 
 3. And thats it! A new repository using this template has been created for you!
 
-##### How to submit the assignment?
+### How to submit the assignment?
 
 1. Clone the repository that you created using the instructions above.
 
@@ -26,4 +26,4 @@ Submission form: https://forms.gle/o8tUdshRWS33tg8X6
 
 4. Go to the submission form and fill the details and submit the assignment.
 
-Happy coding!
+## Happy coding!
