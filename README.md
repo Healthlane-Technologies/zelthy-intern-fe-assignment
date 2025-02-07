@@ -9,8 +9,10 @@ Submission form: https://forms.gle/o8tUdshRWS33tg8X6
 ##### How to use this template?
 
 1. If you are reading this on GitHub, click the "use this template" dropdown in the top right corner of the page and select "Create a new repository".
+<img width="1470" alt="Screenshot 2025-02-07 at 6 10 26 PM" src="https://github.com/user-attachments/assets/360f44ae-57e8-4c47-b768-cbfd95b3aa0a" />
 
 2. Next you will be redirected to create a new repository page on GitHub with this repository as a template. Fill the repository name and description and click "Create repository".
+<img width="1470" alt="Screenshot 2025-02-07 at 3 09 25 PM" src="https://github.com/user-attachments/assets/17bd7a00-99fb-4ff6-8003-4b96506189f3" />
 
 3. And thats it! A new repository using this template has been created for you!
 
