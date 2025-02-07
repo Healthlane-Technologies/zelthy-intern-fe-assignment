@@ -1,6 +1,6 @@
-# Frontend assessment repository template
+# Frontend assignment repository template
 
-This is a template repository for submitting assessments for the Frontend developer internship at Zelthy. All those who are submitting the frontend assessment must use this template.
+This is a template repository for submitting assignment for the Frontend developer internship at Zelthy. All those who are submitting the frontend assignment must use this template.
 
 Assignment link: https://zelthy.com/assignments/frontend-intern
 
